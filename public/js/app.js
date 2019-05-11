@@ -54,6 +54,4 @@ $(document).ready(function() {
   };
 
   $("#formSubmit").on("click", postService);
-
-
 });
